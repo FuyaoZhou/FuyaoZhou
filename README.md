@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FuyaoZhou
-- 👀 I’m interested in VLSI, Digital Design and Verification
+- 👀 I’m interested in ASIC, Analog and Digital Design
 - 🌱 I’m currently a first year MS ECE student @UCLA
 <!---- 💞️ I’m looking to collaborate on (I don't know)
 - 📫 How to reach me (gagagagag)
